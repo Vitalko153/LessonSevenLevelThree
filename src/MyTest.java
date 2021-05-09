@@ -34,5 +34,4 @@ public class MyTest {
     public static void AfterSuite(){
         System.out.println("AfterSuite");
     }
-
 }
